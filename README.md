@@ -22,6 +22,7 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 ## 👨‍💻 Projects 👨‍💻
 
 - [Invoice App](https://github.com/bmatlak03/invoice-app#-invoice-app-)
+
   What I have learned by making this project:
    - Why we should use Typescript in our future projects
    - Better understanding how front-end communicates with back-end

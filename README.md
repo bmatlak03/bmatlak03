@@ -15,6 +15,11 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="50px" height="50px"><img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" alt="NextAuth.js" width="50px" height="50px">
 
+ **Deployment**
+ 
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="Github" width="50px" height="50px"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="100px"><img src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" alt="Vercel" width="100px">
+
+
 
 
 

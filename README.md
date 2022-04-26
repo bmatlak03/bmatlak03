@@ -4,7 +4,9 @@
 I'm from Poland, living in small village near to Kraków/Katowice. I'm particulary interested in Front-end topics, but I'm not afraid of learning some Back-end stuff.
 
 ## 🔧 Technologies & Tools
+
 **Technologies and tools I worked with**
+
 <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="Javascript" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50px" height="50px">
 
 

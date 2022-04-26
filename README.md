@@ -22,9 +22,14 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 ## 👨‍💻 Projects 👨‍💻
 
 - [Invoice App](https://github.com/bmatlak03/invoice-app#-invoice-app-)
-  - It's a project I'm proud of
+  What I have learned by making this project:
+   - Why we should use Typescript in our future projects
+   - Better understanding how front-end communicates with back-end
+   - [NextJS features](https://nextjs.org/docs/basic-features/pages)
+   - Why we shouldn't use MongoDB
+   - Better understanding of [Material UI](https://mui.com/)
+   - Better understanding of managing state via [Redux Toolkit](https://redux-toolkit.js.org/)
 
-  - This project sums up my knowledge
 
 
 

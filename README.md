@@ -19,8 +19,11 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
  
  <img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="Github" width="50px" height="50px"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="50px"><img src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" alt="Vercel" width="100px">
 
+## 👨‍💻 Projects 👨‍💻
 
-
+[Invoice App](https://github.com/bmatlak03/invoice-app#-invoice-app-)
+It's a project I'm proud of
+This project sums up my knowledge
 
 
 

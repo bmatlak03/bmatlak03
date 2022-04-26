@@ -21,9 +21,10 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 
 ## 👨‍💻 Projects 👨‍💻
 
-[Invoice App](https://github.com/bmatlak03/invoice-app#-invoice-app-)
-It's a project I'm proud of
-This project sums up my knowledge
+- [Invoice App](https://github.com/bmatlak03/invoice-app#-invoice-app-)
+ - It's a project I'm proud of
+
+ - This project sums up my knowledge
 
 
 

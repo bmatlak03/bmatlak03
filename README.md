@@ -22,8 +22,9 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 
 ## 👨‍💻 Projects 👨‍💻
 
-- [Invoice App](https://github.com/bmatlak03/invoice-app#-invoice-app-)
-
+<details>
+<summary>[Invoice App](https://github.com/bmatlak03/invoice-app#-invoice-app-)</summary>
+<br>
   What I have learned by making this project:
    - Why we should use Typescript in our future projects
    - Better understanding how front-end communicates with back-end
@@ -31,6 +32,8 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
    - Why we shouldn't use MongoDB
    - Better understanding of [Material UI](https://mui.com/)
    - Better understanding of managing state via [Redux Toolkit](https://redux-toolkit.js.org/)
+</details>
+
 
 
 ## &#x1f4c8; GitHub Stats

@@ -29,7 +29,7 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 **Projects that shows my learning path**
 
 <details>
- <summary><b>Invoice App </b><a href="https://github.com/bmatlak03/invoice-app"><i>repository</i></a><i> Project that I'm proud of (developed on my own from scratch) </i></summary>
+ <summary><b>Invoice App </b><a href="https://github.com/bmatlak03/invoice-app"><i>repository</i></a><i> Project that I'm the most proud of (developed on my own from scratch) </i></summary>
 <br>
  
 What I have learned by making this project:

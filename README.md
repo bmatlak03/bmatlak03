@@ -66,6 +66,28 @@ What I have learned by making this project:
  - How to work with Firebase
 </details>
 
+<details>
+ <summary><b>Spotify Clone </b><a href="https://github.com/bmatlak03/spotify-clone"><i>repository</i></a></summary>
+<br>
+ 
+What I have learned by making this project:
+ - How Front-end communicates with Back-end
+ - Consolidate React knowledge
+ - Consolidate how to create React Hooks
+ - How to get data from other API
+ - Differences between Client side and Server side
+</details>
+
+<details>
+ <summary><b>Spotify Clone </b><a href="https://github.com/bmatlak03/textEditor"><i>repository</i></a></summary>
+<br>
+ 
+What I have learned by making this project:
+ - How to open and save files via ExpressJS
+ - Consolidate knowledge of vanilla Javascrippt
+ - How to create basic server via ExpressJS
+</details>
+
 
 
 ## &#x1f4c8; GitHub Stats

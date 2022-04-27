@@ -36,6 +36,8 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
  
 What I have learned by making this project:
  - Why we should use Typescript in our future projects
+ - How to use types and interfaces
+ - Why we shouldn't use "any" type
  - Better understanding how front-end communicates with back-end
  - [NextJS features](https://nextjs.org/docs/basic-features/pages)
  - Why we shouldn't use MongoDB

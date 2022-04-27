@@ -88,6 +88,8 @@ What I have learned by making this project:
  - How to create basic server via ExpressJS
 </details>
 
+<i>[Other projects](https://github.com/bmatlak03?tab=repositories) were created to consolidate and refresh JS/React knowledge</i>
+
 
 
 ## &#x1f4c8; GitHub Stats

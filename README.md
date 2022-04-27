@@ -40,7 +40,7 @@ What I have learned by making this project:
 </details>
 
 <details>
- <summary><b>Rest Countries API</b><a href="https://github.com/bmatlak03/rest-countries-api"><i>repository</i></a></summary>
+ <summary><b>Rest Countries API </b><a href="https://github.com/bmatlak03/rest-countries-api"><i>repository</i></a></summary>
 <br>
  
 What I have learned by making this project:

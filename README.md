@@ -12,7 +12,7 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="50px" height="50px"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" alt="Node.js" width="50px" height="50px">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/240px-Python_logo_and_wordmark.svg.png" alt="Python">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/240px-Python_logo_and_wordmark.svg.png" alt="Python" width="100px">
 
 **Database & Authentication**
 

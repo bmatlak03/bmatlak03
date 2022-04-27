@@ -20,6 +20,9 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
  
  <img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="Github" width="50px" height="50px"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="50px"><img src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" alt="Vercel" width="100px">
 
+ **System**
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="Windows" width="50px" height="50px"> <img src="https://assets.ubuntu.com/v1/ff6a9a38-ubuntu-logo-2022.svg" alt="Linux Ubuntu" width="50px" height="50px">
+
 ## 👨‍💻 Projects 👨‍💻
 
 <details>

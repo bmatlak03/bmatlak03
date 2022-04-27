@@ -79,7 +79,7 @@ What I have learned by making this project:
 </details>
 
 <details>
- <summary><b>Text Editor <b/><a href="https://github.com/bmatlak03/textEditor"><i>repository</i></a></summary>
+ <summary><b>Text Editor </b><a href="https://github.com/bmatlak03/textEditor"><i>repository</i></a></summary>
 <br>
  
 What I have learned by making this project:

@@ -51,6 +51,19 @@ What I have learned by making this project:
  - Other ways how to fetch data [(axios)](https://github.com/axios/axios)
 </details>
 
+<details>
+ <summary><b>Burger Builder </b><a href="https://github.com/bmatlak03/burger-builder"><i>repository</i></a></summary>
+<br>
+ 
+What I have learned by making this project:
+ - How to work with class based components in React
+ - Basic knowledge of Redux incl. Sagas, Thunk
+ - Basic knowledge of React and how to create functional components
+ - Basic knowledge of React Router
+ - Other ways how to fetch data [(axios)](https://github.com/axios/axios)
+ - How to work with Firebase
+</details>
+
 
 
 ## &#x1f4c8; GitHub Stats

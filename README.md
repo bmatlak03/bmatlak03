@@ -39,6 +39,18 @@ What I have learned by making this project:
  - Better understanding of managing state via [Redux Toolkit](https://redux-toolkit.js.org/)
 </details>
 
+<details>
+ <summary><b>Rest Countries API</b><a href="https://github.com/bmatlak03/rest-countries-api"><i>repository</i></a></summary>
+<br>
+ 
+What I have learned by making this project:
+ - Basics of [Material UI](https://mui.com/)
+ - Creating custom hooks
+ - Consolidate knowledge of React
+ - Consolidate knowledge [React Router v5](https://reactrouter.com/)
+ - Other ways how to fetch data [(axios)](https://github.com/axios/axios)
+</details>
+
 
 
 ## &#x1f4c8; GitHub Stats

@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**My name is Bartosz and I'm Junior/Entry level Front-end Developer**
+**My name is Bartosz and I'm Front-end Developer**
 
 I'm from Poland, living in small village near to Kraków/Katowice. I'm particulary interested in Front-end topics, but I'm not afraid of learning some Back-end stuff.
 

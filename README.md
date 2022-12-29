@@ -20,7 +20,9 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 
  **Deployment**
  
- <img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="Github" width="50px" height="50px"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="50px"><img src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" alt="Vercel" width="100px">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="Github" width="50px" height="50px"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="50px"><img src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" alt="Vercel" width="100px"> <img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" alt="Firebase" width="50px" height="50px">
+ 
+ 
 
  **System**
  

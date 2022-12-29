@@ -24,7 +24,8 @@ I'm from Poland, living in small village near to Kraków/Katowice. I'm particula
 
  **System**
  
- <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="Ubuntu" width="50px" height="50px"> <img src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg" alt="Linux Ubuntu" width="50px" height="50px">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="Windows" width="50px" height="50px"> <img src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg" alt="Linux Ubuntu" width="50px" height="50px"> <img src="https://github.com/get-icon/geticon/blob/master/icons/apple.svg" alt="Apple" width="50px" height="50px">
+ 
 
 ## 👨‍💻 Projects 👨‍💻
 

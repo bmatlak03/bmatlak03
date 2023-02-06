@@ -2,7 +2,7 @@
 
 **My name is Bartosz and I'm Full-stack Developer**
 
-I am young ambitious developer living in a small village between Kraków and Katowice
+I am a young and ambitious programmer from Poland who specializes in Javascript. I have a passion for learning and am always eager to explore new technologies. I am driven to succeed and constantly strive to improve my skills and knowledge in the field.
 
 ## 🔧 Technologies & Tools
 

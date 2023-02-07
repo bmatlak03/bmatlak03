@@ -32,7 +32,24 @@ I am a young and ambitious programmer from Poland who specializes in Javascript.
 ## 👨‍💻 Projects 👨‍💻
 
 **Projects that shows my learning path**
-
+<details>
+ <summary>
+  Currently working on: <a href="https://github.com/bmatlak03/task-manager">Kanban Task Manager </a>
+ </summary>
+ <br>
+ Technologies that I want to learn from this project:
+ - Next.js 13 
+ - PostgreSQL
+ - Prisma ORM
+ - Master Typescript
+ - Improve folder structure
+ - React Query
+ - Unit Tests
+ - Husky precommit
+ - Master Material UI
+ - learn the basics of Docker!
+ 
+</details>
 <details>
  <summary><b>Invoice App </b><a href="https://github.com/bmatlak03/invoice-app"><i>repository</i></a><i> Project that I'm the most proud of (developed on my own from scratch) </i></summary>
 <br>

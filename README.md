@@ -62,7 +62,6 @@ What I have learned by making this project:
  - Why we shouldn't use "any" type
  - Better understanding how front-end communicates with back-end
  - [NextJS features](https://nextjs.org/docs/basic-features/pages)
- - Why we shouldn't use MongoDB
  - Better understanding of [Material UI](https://mui.com/)
  - Better understanding of managing state via [Redux Toolkit](https://redux-toolkit.js.org/)
 </details>

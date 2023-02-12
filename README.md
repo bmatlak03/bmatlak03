@@ -53,7 +53,7 @@ Technologies that I want to learn from this project:
 </details>
 <hr>
 <details>
- <summary><b>Invoice App </b><a href="https://github.com/bmatlak03/invoice-app"><i>repository</i></a><i> Project that I'm the most proud of (developed on my own from scratch) </i></summary>
+ <summary><b>Invoice App </b><a href="https://github.com/bmatlak03/invoice-app"><i>repository</i></a></summary>
 <br>
  
 What I have learned by making this project:

@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**My name is Bartosz and I'm Full-stack Developer**
+**My name is Bartosz and I am Frontend  developer, who is eager to explore more of backend topics**
 
 I am a young and ambitious programmer from Poland who specializes in Javascript. I have a passion for learning and am always eager to explore new technologies. I am driven to succeed and constantly strive to improve my skills and knowledge in the field.
 
